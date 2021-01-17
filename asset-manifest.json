@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/draft-replay/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/draft-replay/static/js/main.26115262.chunk.js",
+    "main.js.map": "/draft-replay/static/js/main.26115262.chunk.js.map",
+    "runtime-main.js": "/draft-replay/static/js/runtime-main.46419da5.js",
+    "runtime-main.js.map": "/draft-replay/static/js/runtime-main.46419da5.js.map",
+    "static/js/2.202aca3f.chunk.js": "/draft-replay/static/js/2.202aca3f.chunk.js",
+    "static/js/2.202aca3f.chunk.js.map": "/draft-replay/static/js/2.202aca3f.chunk.js.map",
+    "static/js/3.fc2df499.chunk.js": "/draft-replay/static/js/3.fc2df499.chunk.js",
+    "static/js/3.fc2df499.chunk.js.map": "/draft-replay/static/js/3.fc2df499.chunk.js.map",
+    "index.html": "/draft-replay/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/draft-replay/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.202aca3f.chunk.js.LICENSE.txt": "/draft-replay/static/js/2.202aca3f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/draft-replay/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46419da5.js",
+    "static/js/2.202aca3f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.26115262.chunk.js"
+  ]
+}
