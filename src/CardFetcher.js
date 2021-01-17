@@ -1,4 +1,3 @@
-import raw from './log.txt';
 import React, {Component} from 'react';
 import {FilePicker} from 'react-file-picker';
 import mammoth from "mammoth";
